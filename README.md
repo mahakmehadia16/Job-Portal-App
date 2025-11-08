@@ -59,8 +59,9 @@ This project includes a complete authentication system, job posting, job search,
 - bcrypt.js
 
 ---
-
 ## 📁 Folder Structure
+
+
 Job-Portal-App/
 │
 ├── backend/
