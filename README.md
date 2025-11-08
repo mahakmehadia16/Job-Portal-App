@@ -61,33 +61,34 @@ This project includes a complete authentication system, job posting, job search,
 ---
 ## 📁 Folder Structure
 
-
+```
 Job-Portal-App/
 │
 ├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── uploads/
-│ ├── server.js
-│ ├── package.json
-│ └── .env.example
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── uploads/
+│   ├── server.js
+│   ├── package.json
+│   └── .env.example
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── pages/
-│ │ ├── services/
-│ │ └── styles.css
-│ ├── index.html
-│ ├── package.json
-│ └── vite.config.js
+│   ├── src/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── styles.css
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
